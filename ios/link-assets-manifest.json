@@ -1,0 +1,93 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/fonts/RobotoMono-Bold.ttf",
+      "sha1": "0c75d7b11dacfede72053e40b71849c43c22a454"
+    },
+    {
+      "path": "src/fonts/RobotoMono-BoldItalic.ttf",
+      "sha1": "6be5bc60f9bfb14a8f81d56587d7c4eb266f2a54"
+    },
+    {
+      "path": "src/fonts/RobotoMono-ExtraLight.ttf",
+      "sha1": "6546ced3a36a1640b7b684bca4f23481a2ec6e02"
+    },
+    {
+      "path": "src/fonts/RobotoMono-ExtraLightItalic.ttf",
+      "sha1": "e11bf51b3cd448df5383bbe49a206c27065c222c"
+    },
+    {
+      "path": "src/fonts/RobotoMono-Italic.ttf",
+      "sha1": "fae9acb23533e32c69da98c3e288d333245b5b4b"
+    },
+    {
+      "path": "src/fonts/RobotoMono-Light.ttf",
+      "sha1": "d783629f1972675179c9d4d3db8fffa037f62c77"
+    },
+    {
+      "path": "src/fonts/RobotoMono-LightItalic.ttf",
+      "sha1": "67cec1b29fcc2368ebff2e7b34c0b1caf751966b"
+    },
+    {
+      "path": "src/fonts/RobotoMono-Medium.ttf",
+      "sha1": "ba4ac211bbcd66da7712aa059b214155f4f7a93a"
+    },
+    {
+      "path": "src/fonts/RobotoMono-MediumItalic.ttf",
+      "sha1": "09bce12e925877d49f0fe5433b555f7c53f050a5"
+    },
+    {
+      "path": "src/fonts/RobotoMono-Regular.ttf",
+      "sha1": "10459dd11ec5adb59f3775b062dc06c4abe70a3a"
+    },
+    {
+      "path": "src/fonts/RobotoMono-SemiBold.ttf",
+      "sha1": "d2edc0348f2ee3d5031838a96d65201ac55d2587"
+    },
+    {
+      "path": "src/fonts/RobotoMono-SemiBoldItalic.ttf",
+      "sha1": "68e528898509ec4bf78fd9c905d6bf67e274c0e0"
+    },
+    {
+      "path": "src/fonts/RobotoMono-Thin.ttf",
+      "sha1": "c8ca137fa86427da7d776e55ba3d3da82f6553f7"
+    },
+    {
+      "path": "src/fonts/RobotoMono-ThinItalic.ttf",
+      "sha1": "1a8987e423a9a04df440d990d6f1ee9d7bc4f9c3"
+    },
+    {
+      "path": "src/fonts/Ubuntu-Bold.ttf",
+      "sha1": "020aaec9cdeb59aa8ebd2e4c693527cddb2d1577"
+    },
+    {
+      "path": "src/fonts/Ubuntu-BoldItalic.ttf",
+      "sha1": "9ec6f8b1c000fe9d081f2598d801ed85cef63a63"
+    },
+    {
+      "path": "src/fonts/Ubuntu-Italic.ttf",
+      "sha1": "1f02c79207884c1d1adf3b0679bbacb1d17c6f39"
+    },
+    {
+      "path": "src/fonts/Ubuntu-Light.ttf",
+      "sha1": "d060b0ff74b379dcc3d10ac2d024602af419d9f0"
+    },
+    {
+      "path": "src/fonts/Ubuntu-LightItalic.ttf",
+      "sha1": "7b5e622026245d52f4eafbaa9564ece8e8889dc9"
+    },
+    {
+      "path": "src/fonts/Ubuntu-Medium.ttf",
+      "sha1": "da662f767e6261491e20da197bd7ffbb7a7d122c"
+    },
+    {
+      "path": "src/fonts/Ubuntu-MediumItalic.ttf",
+      "sha1": "f96c9c3a3bf40efdc9b20afcc8203f6e47e87ea5"
+    },
+    {
+      "path": "src/fonts/Ubuntu-Regular.ttf",
+      "sha1": "8238e55f0320c3abc74057c988367c2f25fa3727"
+    }
+  ]
+}
